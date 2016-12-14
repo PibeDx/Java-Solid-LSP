@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Java-Solid-LSP.iml" filepath="$PROJECT_DIR$/.idea/modules/Java-Solid-LSP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Java-Solid-LSP_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Java-Solid-LSP_main.iml" group="Java-Solid-LSP" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Java-Solid-LSP_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Java-Solid-LSP_test.iml" group="Java-Solid-LSP" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LSP-bad/LSP-bad.iml" filepath="$PROJECT_DIR$/.idea/modules/LSP-bad/LSP-bad.iml" group="LSP-bad" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LSP-bad/LSP-bad_main.iml" filepath="$PROJECT_DIR$/.idea/modules/LSP-bad/LSP-bad_main.iml" group="LSP-bad" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LSP-bad/LSP-bad_test.iml" filepath="$PROJECT_DIR$/.idea/modules/LSP-bad/LSP-bad_test.iml" group="LSP-bad" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LSP-good/LSP-good.iml" filepath="$PROJECT_DIR$/.idea/modules/LSP-good/LSP-good.iml" group="LSP-good" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LSP-good/LSP-good_main.iml" filepath="$PROJECT_DIR$/.idea/modules/LSP-good/LSP-good_main.iml" group="LSP-good" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LSP-good/LSP-good_test.iml" filepath="$PROJECT_DIR$/.idea/modules/LSP-good/LSP-good_test.iml" group="LSP-good" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,4 @@
+rootProject.name = 'Java-Solid-LSP'
+include 'LSP-good'
+include 'LSP-bad'
+
